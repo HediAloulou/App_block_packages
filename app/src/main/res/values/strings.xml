@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">prediction</string>
+    <string name="accessibility_service_description">accessibility service\n</string>
+</resources>
